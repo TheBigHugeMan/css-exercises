@@ -1,0 +1,20 @@
+
+.oddNum {
+    background-color: hsl(351, 93%, 77%);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.oddNum.cooler{
+    font-size: 24px;
+}
+
+#even2 {
+    font-size: 36px;
+    color: rgb(6, 104, 241);
+}
+
+#even4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #0ef161;
+}
